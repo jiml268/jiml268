@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **jimlynch268@gmail.com**
 - 👨‍💻 All of my projects are available at **https://www.james-lynch.com/**
-- ⚡ Fun fact **I am fascinated by travel because I learn about new cultures and meet people I love to cook and try out new recipes. Will to try anything once.**
+- ⚡ Fun fact **I am fascinated by travel because I learn about new cultures and meet people I love to cook and try out new recipes. I am willing to try anything once.**
 
 <div> <a href="https://www.linkedin.com/in/james-j-lynch" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/jiml268" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
